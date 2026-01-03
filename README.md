@@ -10,32 +10,28 @@ An interactive sports analytics dashboard built using Power BI to analyze Indian
 The IPL Analytics Dashboard is a data visualization and exploratory analytics project designed to analyze historical IPL match and ball-by-ball data. It helps users understand season-wise trends, team dominance, scoring behavior, and strategic factors such as toss decisions and venue impact, enabling data-driven insights in the domain of sports analytics.
 
 3. Tech Stack
-
 The dashboard was built using the following tools and technologies:
 
-• 📊 Power BI Desktop – Primary platform for building interactive dashboards and reports
-• 📂 Power Query – Used for data cleaning, transformation, and preprocessing
-• 🧠 DAX (Data Analysis Expressions) – Created calculated measures such as total runs, wickets, averages, win margins, and KPIs
-• 🧩 Data Modeling – Relationship modeling between matches and deliveries datasets
-• 📁 Data Format – CSV / Excel files (matches.xlsx, deliveries.xlsx)
-• 🖼 Dashboard Output – .pbix report and .png dashboard snapshot
+• 📊 Power BI Desktop – Primary platform for building interactive dashboards and reports.
+• 📂 Power Query – Used for data cleaning, transformation, and preprocessing.
+• 🧠 DAX (Data Analysis Expressions) – Created calculated measures such as total runs, wickets, averages, win margins, and KPIs.  
+• 🧩 Data Modeling – Relationship modeling between matches and deliveries datasets.
+• 📁 Data Format – CSV / Excel files (matches.xlsx, deliveries.xlsx).
+• 🖼 Dashboard Output – .pbix report and .png dashboard snapshot.
 
 4. Data Source
 
-Source: IPL Historical Match Data
-
+Source: IPL Historical Match Data.
 The analysis is based on two structured datasets:
 
-• Matches Dataset – Match-level information (season, teams, toss, venue, result, winner, etc.)
-• Deliveries Dataset – Ball-by-ball data capturing runs, wickets, bowlers, batsmen, dismissals, and extras
-
+• Matches Dataset – Match-level information (season, teams, toss, venue, result, winner, etc.).
+• Deliveries Dataset – Ball-by-ball data capturing runs, wickets, bowlers, batsmen, dismissals, and extras.
 Together, these datasets enable both high-level season analysis and granular player-level insights across multiple IPL seasons.
 
 5. Features / Highlights
 • Business Problem
 
 IPL generates massive volumes of match and performance data every season. However, raw data alone makes it difficult to answer strategic questions such as:
-
 How have scoring patterns evolved over seasons?
 Does winning the toss significantly influence match outcomes?
 Which teams and venues consistently perform better?
