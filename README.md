@@ -1,5 +1,5 @@
-IPL Analysis Dashboard
-Data-Driven Insights into the Indian Premier League (IPL)
+# IPL Analysis Dashboard
+
 1. Project Title / Headline
 
 🏏 IPL Analytics Dashboard: Comprehensive Match & Performance Insights
@@ -20,17 +20,14 @@ The dashboard was built using the following tools and technologies:
 • 🖼 Dashboard Output – .pbix report and .png dashboard snapshot.
 
 4. Data Source
-
 Source: IPL Historical Match Data.
 The analysis is based on two structured datasets:
-
 • Matches Dataset – Match-level information (season, teams, toss, venue, result, winner, etc.).
 • Deliveries Dataset – Ball-by-ball data capturing runs, wickets, bowlers, batsmen, dismissals, and extras.
 Together, these datasets enable both high-level season analysis and granular player-level insights across multiple IPL seasons.
 
-5. Features / Highlights
+6. Features / Highlights
 • Business Problem
-
 IPL generates massive volumes of match and performance data every season. However, raw data alone makes it difficult to answer strategic questions such as:
 How have scoring patterns evolved over seasons?
 Does winning the toss significantly influence match outcomes?
@@ -50,7 +47,6 @@ Support sports analytics, decision-making, and storytelling through data
 🔹 Key KPIs (Top Section)
 
 High-level performance indicators displayed prominently:
-
 Total Seasons: 10
 Total Matches: 636
 Average Runs per Match: 305.53
@@ -58,63 +54,50 @@ Total Runs: 194K
 Total Wickets: 7,438
 Total Sixes: 6,523
 Total Fours: 17K
-
 These KPIs provide an instant snapshot of the scale and intensity of IPL matches.
 
 🔹 Season & Venue Filters
-
 Interactive season slicer (2008–2016)
-
 Venue filter to analyze performance across different stadiums
 All visuals dynamically update based on selected filters.
 
 🔹 Toss Decision Analysis (Donut Chart)
-
 Comparison of bat vs field decisions after winning the toss
 Highlights strategic preferences and evolving match tactics
 
 🔹 Total Runs by Season (Bar Chart)
-
 Season-wise aggregation of total runs
 Identifies high-scoring seasons and overall scoring growth trends
 
 🔹 Average Runs by Season (Line Chart)
-
 Tracks scoring consistency and volatility across seasons
 Useful for understanding changes in pitch behavior and playing style
 
 🔹 Win Type Analysis (Stacked Bar Chart)
-
 Matches won by runs vs by wickets
 Reveals dominance patterns and chasing vs defending effectiveness
 
 🔹 Matches by City (Map Visualization)
-
 Geographic distribution of IPL matches
 Helps identify major IPL hubs and high-frequency venues
 
 🔹 Most Successful Teams (Bar Chart)
-
 Ranking of teams based on matches won
 Highlights historically dominant franchises
 
 • Business Impact & Insights
 
 📈 Strategic Analysis
-
 Teams chasing targets show strong win trends in certain seasons
 Toss decisions lean more toward fielding, indicating chasing advantages
 
 🏟 Venue Intelligence
-
 Certain cities consistently host more matches, making them strategic hubs
 
 🏏 Performance Trends
-
 Increase in average runs over seasons reflects aggressive batting evolution
 
 📊 Decision Support
-
 Useful for analysts, coaches, and strategists for performance benchmarking
 Enables data-driven storytelling for presentations and fan engagement
 
