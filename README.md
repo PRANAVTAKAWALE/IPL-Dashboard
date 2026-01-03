@@ -125,3 +125,4 @@ Enables data-driven storytelling for presentations and fan engagement
 6. Screenshots / Demos
 
 Dashboard Preview:
+Example : https://github.com/PRANAVTAKAWALE/IPL-Dashboard/blob/main/IPL%20Dashboard%20Image.png
