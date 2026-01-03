@@ -1,4 +1,4 @@
-#IPL Analytics Dashboard
+IPL Analytics Dashboard
 Data-Driven Insights into the Indian Premier League (IPL)
 1. Project Title / Headline
 
