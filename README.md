@@ -12,11 +12,11 @@ The IPL Analytics Dashboard is a data visualization and exploratory analytics pr
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
 
-• 📊 Power BI Desktop – Primary platform for building interactive dashboards and reports.
-• 📂 Power Query – Used for data cleaning, transformation, and preprocessing.
-• 🧠 DAX (Data Analysis Expressions) – Created calculated measures such as total runs, wickets, averages, win margins, and KPIs.  
-• 🧩 Data Modeling – Relationship modeling between matches and deliveries datasets.
-• 📁 Data Format – CSV / Excel files (matches.xlsx, deliveries.xlsx).
+• 📊 Power BI Desktop – Primary platform for building interactive dashboards and reports. 
+• 📂 Power Query – Used for data cleaning, transformation, and preprocessing. 
+• 🧠 DAX (Data Analysis Expressions) – Created calculated measures such as total runs, wickets, averages, win margins, and KPIs.
+• 🧩 Data Modeling – Relationship modeling between matches and deliveries datasets. 
+• 📁 Data Format – CSV / Excel files (matches.xlsx, deliveries.xlsx). 
 • 🖼 Dashboard Output – .pbix report and .png dashboard snapshot.
 
 4. Data Source
