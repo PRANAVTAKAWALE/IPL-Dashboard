@@ -153,8 +153,6 @@ All visuals dynamically update based on selected filters.
 
 ---
 
-## 6. Screenshots / Demos
-
 **Dashboard Preview:**  
 ## 6. Screenshots / Demos
 
