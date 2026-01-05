@@ -156,4 +156,7 @@ All visuals dynamically update based on selected filters.
 ## 6. Screenshots / Demos
 
 **Dashboard Preview:**  
-https://github.com/PRANAVTAKAWALE/IPL-Dashboard/blob/main/IPL%20Dashboard%20Image.png
+## 6. Screenshots / Demos
+
+![IPL Analytics Dashboard](IPL_Dashboard_Image.png)
+
